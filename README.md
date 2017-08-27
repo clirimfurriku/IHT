@@ -12,7 +12,7 @@ This application can be used on Windows Xp,Vista,7,8,8.1,10
 
 # Screenshoot
 ![Screenshot](https://raw.githubusercontent.com/clirimfurriku/IHT/IHT/Capture.PNG "Screenshot")
-https://raw.githubusercontent.com/clirimfurriku/IHT/IHT/Capture.PNG
+
 
 # Antivirus Scan Results: 
 Detection ratio:	12 / 64
