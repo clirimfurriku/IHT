@@ -35,7 +35,7 @@ Added unhide with Winrar
 
 Added Winrar check
 
-Aded Winrad auto Download
+Aded Winrar auto Download
 
 
 
