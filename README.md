@@ -15,7 +15,7 @@ This application can be used on Windows Xp,Vista,7,8,8.1,10
 
 
 # Antivirus Scan Results: 
-Detection ratio:	12 / 64
+Detection ratio:	12 / 64,
 Status: 100% Safe
 https://www.virustotal.com/en/file/308b8d5bc1bfd67bcad04988e54a44823e06fb49354c1d3ab4e77efd4012d440/analysis/1503850534/
 
