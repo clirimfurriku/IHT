@@ -22,23 +22,43 @@ https://www.virustotal.com/en/file/308b8d5bc1bfd67bcad04988e54a44823e06fb49354c1
 # Changelog:
 
 V0.9
+
 created 
 
+
+
 V1.0
+
 New logo
+
 Added unhide with Winrar 
+
 Added Winrar check
+
 Aded Winrad auto Download
 
+
+
 V1.2
+
 Changed Winrar to 7z
+
 Added 64bit 7Z support
+
 7z auto Download from app
+
 Auto Delete not needed files (Files created by app)
 
+
+
 V2.0
+
 7Z integrated inside application (No 7Z needed)
+
 New 7Z functions
+
 New hide algorithm
+
 New unhide algorithm
+
 Unhide files more fast
